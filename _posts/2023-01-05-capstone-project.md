@@ -2,7 +2,7 @@
 layout: post
 title: Capstone project
 author: [me]
-category: [Project?]
+category: [Project]
 tags: [jekyll, ai]
 ---
 
